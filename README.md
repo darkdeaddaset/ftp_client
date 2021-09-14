@@ -1,6 +1,6 @@
 # ftp_client
 
-# ENG
+## ENG
 Upload(to server)("upload file", "local file path")
 
 Download(from server)("file name", "local path to download") Disadvantage(rights to folder)
@@ -13,7 +13,7 @@ Create new directory(on the server) ("new directory name")
 
 Details(on the server) ("directory name")
 
-# RUS
+## RUS
 Загрузка(на сервер)("загружаемый файл", "путь локального файла")
 
 Скачать(с сервера)("имя файла","локальный путь для скачивания") Недостаток (права на папку)
@@ -26,7 +26,7 @@ Details(on the server) ("directory name")
 
 Подробная информация(на сервере) ("имя директории")
 
-# WARNING/ВНИМАНИЕ
+## WARNING/ВНИМАНИЕ
 The application has some shortcomings that may appear when downloading files from the server. The application will be further developed
 
 В приложении есть некоторые недостатки, которые могут проявится при скачивании файлов с сервера. Приложение будет дорабатываться
