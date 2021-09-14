@@ -1,6 +1,8 @@
 # ftp_client
 
 ## ENG
+Connecting ("ftp://xxx.xxx.xx.xx")
+
 Upload(to server)("upload file", "local file path")
 
 Download(from server)("file name", "local path to download") Disadvantage(rights to folder)
@@ -14,6 +16,8 @@ Create new directory(on the server) ("new directory name")
 Details(on the server) ("directory name")
 
 ## RUS
+Подключение ("ftp://xxx.xxx.xx.xx")
+
 Загрузка(на сервер)("загружаемый файл", "путь локального файла")
 
 Скачать(с сервера)("имя файла","локальный путь для скачивания") Недостаток (права на папку)
